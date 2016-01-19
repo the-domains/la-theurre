@@ -1,0 +1,28 @@
+name: La Theurre
+favicon: null
+layout_spectrum: 0.7599568315781653
+typography_spectrum: 0.8102849766146392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3161131418310106
+  lightness: 0.34086436964571476
+  saturation: 0.45535454829223454
+  rhythmicContrast: 0.7564538440201432
+purpose: []
